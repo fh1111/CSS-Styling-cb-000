@@ -52,6 +52,6 @@ figcaption{
   font-family: 'Clicker Script', cursive;
 }
 
-#logo h1 { /* selects <h2> inside the id="logo" */
+#logo h2 { /* selects <h2> inside the id="logo" */
   font-family: 'Elsie Swash Caps', cursive;
 }
