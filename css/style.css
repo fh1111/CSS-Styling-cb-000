@@ -45,3 +45,13 @@ figcaption{
 #logo{ /* select elements with id="logo"*/
   background: aqua;
 }
+
+/* Descendent Selector */
+
+#logo h1 { /* selects <h1> inside the id="logo" */
+  font-family: 'Clicker Script', cursive;
+}
+
+#logo h1 { /* selects <h2> inside the id="logo" */
+  font-family: 'Elsie Swash Caps', cursive;
+}
